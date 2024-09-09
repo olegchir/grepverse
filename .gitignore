@@ -1,0 +1,37 @@
+# Ignore Rust build artifacts
+/target/
+/target/debug/
+/target/release/
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore common development files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore Windows-specific files
+*.lnk
+*.exe
+*.dll
+*.pdb
+
+# Ignore Linux-specific files
+*.so
+*.o
+*.a
+
+# Ignore Mac-specific files
+*.dSYM
+*.app
+		
